@@ -17,3 +17,4 @@ six==1.10.0
 textract==1.4.0
 wsgiref==0.1.2
 xlrd==0.9.4
+textract
